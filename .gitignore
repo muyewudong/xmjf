@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/xmjf-admin/target/
+/xmjf-api/target/
+/xmjf-code-generate/target/
+/xmjf-server/target/
+/xmjf-web/target/
